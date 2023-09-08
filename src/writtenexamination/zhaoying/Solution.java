@@ -1,4 +1,4 @@
-package zhaoying;
+package writtenexamination.zhaoying;
 
 import java.util.PriorityQueue;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package zhongxing;
+package writtenexamination.zhongxing;
 
 import java.util.ArrayList;
 import java.util.Arrays;
