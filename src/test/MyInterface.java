@@ -6,5 +6,8 @@ public interface MyInterface {
     default void method1(){
         System.out.println("ssss");
     }
-    void method2();
+
+    static void method2() {
+
+    }
 }
