@@ -7,7 +7,4 @@ public interface MyInterface {
         System.out.println("ssss");
     }
 
-    static void method2() {
-
-    }
 }
